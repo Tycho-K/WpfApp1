@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button Content="MijnKnop" VerticalAlignment="Center" HorizontalAlignment="Center" />
+        <Button Content="Mijn Knop" VerticalAlignment="Center" HorizontalAlignment="Center" />
         <Label Content="Label" />
     </Grid>
 </Window>
